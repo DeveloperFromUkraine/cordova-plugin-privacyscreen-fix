@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-privacyscreen-fix",
+  "version": "0.3.2",
+  "description": "Secures your app from displaying a screenshot in task switchers under Android and iOS. Keeps sensitive information private.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperFromUkraine/cordova-plugin-privacyscreen-fix.git"
+  },
+  "author": {
+    "name": "Jian Feng, Wang",
+    "email": "cnjianfeng@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeveloperFromUkraine/cordova-plugin-privacyscreen-fix/issues"
+  },
+  "homepage": "https://github.com/DeveloperFromUkraine/cordova-plugin-privacyscreen-fix#readme"
+}
